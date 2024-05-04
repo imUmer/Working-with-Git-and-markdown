@@ -96,11 +96,18 @@ greet()
 ```
 
 ## Screen shots 
-This is an example of CMD image on the markdown below
+This is an example of SS image on the markdown below
 
-Year Map of commits
+### Year Map of commits
 ![map of commits](https://raw.githubusercontent.com/imUmer/Working-with-Git-and-markdown/root/screenshot%20showing%20commits%20.png)
 
+### List of commits on Github
+![map of commits](https://raw.githubusercontent.com/imUmer/Working-with-Git-and-markdown/root/commits%20.png)
+
+### another view of List of commits 
+![map of commits](https://raw.githubusercontent.com/imUmer/Working-with-Git-and-markdown/root/commits%20list.png)
+
+### cmd interaction
 ![This cmd ss](https://www.wikihow.com/images/thumb/1/13/Find-All-Commands-of-CMD-in-Your-Computer-Step-3-Version-6.jpg/v4-460px-Find-All-Commands-of-CMD-in-Your-Computer-Step-3-Version-6.jpg.webp)
 
 # Thats it. There is a lot more to do. GOOD Bye 👋
